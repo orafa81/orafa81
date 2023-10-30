@@ -7,6 +7,8 @@
   
 Minhas tecnologias favoritas atualmente são: [Unity](https://unity.com/pt), [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/), [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [Bootstrap](https://getbootstrap.com/), [Python](https://www.python.org/), [Java](https://www.oracle.com/br/java/technologies/downloads/).
 
+Estudando: [PHP](https://www.php.net/) com [Laravel](https://laravel.com/).
+
 <!--<h3 align="center">Conecte-se comigo!</h3>
 <p align="center">
 <a href="www.linkedin.com/in/rafael-araujo81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ixahmedxi" height="30" width="40" /></a>
