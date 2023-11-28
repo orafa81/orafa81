@@ -5,9 +5,9 @@
 - 💻 Áreas que mais gosto: **Front-End**, **Back-End** e **Game Designer**.
 - 🚀 Atualmente trabalhando no [SongEDU](https://github.com/orafa81/Project_SongEdu.git), um "serious games", que auxiliarar no desenvolvimento cognitivo de crianças com TEA.
   
-Minhas tecnologias favoritas atualmente são: [Unity](https://unity.com/pt), [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/), [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [Bootstrap](https://getbootstrap.com/), [Python](https://www.python.org/), [Java](https://www.oracle.com/br/java/technologies/downloads/).
+Minhas tecnologias favoritas atualmente são: [Unity](https://unity.com/pt), [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/), [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [React](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://react.dev/)), [Bootstrap](https://getbootstrap.com/), [Python](https://www.python.org/), [Java](https://www.oracle.com/br/java/technologies/downloads/).
 
-Estudando: [PHP](https://www.php.net/) com [Laravel](https://laravel.com/).
+Estudando: [React](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://react.dev/)) e [Laravel](https://laravel.com/).
 
 <!--<h3 align="center">Conecte-se comigo!</h3>
 <p align="center">
