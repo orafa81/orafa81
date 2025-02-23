@@ -3,11 +3,11 @@
 
 - 🎓 Cursando Tecnologia em Analise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Norte.
 - 💻 Áreas que mais gosto: **Front-End**, **Back-End** e **Game Designer**.
-- 🚀 Atualmente trabalhando no [SongEDU](https://github.com/orafa81/Project_SongEdu.git), um "serious games", que auxiliarar no desenvolvimento cognitivo de crianças com TEA.
+- 🚀 Atualmente trabalhando no [Level-03](https://github.com/orafa81/Project_SongEdu.git), um "web site" para aluguel de carros.
   
-Minhas tecnologias favoritas atualmente são: [Unity](https://unity.com/pt), [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/), [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [React](https://react.dev/), [Bootstrap](https://getbootstrap.com/), [Python](https://www.python.org/), [Java](https://www.oracle.com/br/java/technologies/downloads/).
+Minhas tecnologias favoritas atualmente são: [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [Tailwind](https://tailwindcss.com/)), [Laravel](https://laravel.com/)), [PHP](https://www.php.net/)).
 
-Estudando: [React](https://react.dev/) e [Laravel](https://laravel.com/).
+Estudando: [Vue.js](https://vuejs.org/)).
 
 <!--<h3 align="center">Conecte-se comigo!</h3>
 <p align="center">
